@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleArea", "RectangleArea\RectangleArea.csproj", "{D8B1D19A-4F6C-485D-B834-36748A8FDDF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageNumber", "AverageNumber\AverageNumber.csproj", "{4A77C1A0-C3F8-484E-9A02-3EA1622EE44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8B1D19A-4F6C-485D-B834-36748A8FDDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B1D19A-4F6C-485D-B834-36748A8FDDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B1D19A-4F6C-485D-B834-36748A8FDDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B1D19A-4F6C-485D-B834-36748A8FDDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A77C1A0-C3F8-484E-9A02-3EA1622EE44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A77C1A0-C3F8-484E-9A02-3EA1622EE44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A77C1A0-C3F8-484E-9A02-3EA1622EE44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A77C1A0-C3F8-484E-9A02-3EA1622EE44C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF07F271-9A75-4E90-9282-1C3FBA49509C}
+	EndGlobalSection
+EndGlobal
